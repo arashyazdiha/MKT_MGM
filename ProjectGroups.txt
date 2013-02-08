@@ -38,6 +38,7 @@ Goh,Lynn,sg2776,7
 Molin,Stefanie,snm2121,7
 Poignant,Manon,msp2159,7
 Denis,Helena,hmd2130,7
+Russel, Natalie Grace,ngr2104,7
 Crucet,Nicholas Alexander,nac2128,8
 Olson,Stefan,spo2106,8
 Daud,Salia,sd2648,8
